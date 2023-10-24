@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DishongGameOptions", "Disho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DishongTowerChallenge", "DishongTowerChallenge\DishongTowerChallenge.csproj", "{DE7A737C-A361-4BB9-B036-9857A486CA6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DishongLootBags", "DishongLootBags\DishongLootBags.csproj", "{A6833CD6-09F2-4DED-9B31-E8AB4B8B4963}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DE7A737C-A361-4BB9-B036-9857A486CA6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE7A737C-A361-4BB9-B036-9857A486CA6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE7A737C-A361-4BB9-B036-9857A486CA6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6833CD6-09F2-4DED-9B31-E8AB4B8B4963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6833CD6-09F2-4DED-9B31-E8AB4B8B4963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6833CD6-09F2-4DED-9B31-E8AB4B8B4963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6833CD6-09F2-4DED-9B31-E8AB4B8B4963}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
