@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DishongLootBags", "DishongL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DishongPickupWorkstations", "DishongPickupWorkstations\DishongPickupWorkstations.csproj", "{158B5AA9-21FB-45F2-98E8-DBBB98755D45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HJStopVehiclesPickup", "HJStopVehiclesPickup\HJStopVehiclesPickup.csproj", "{8E87958E-5D18-4EF0-9461-EFED0A0E921E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HJPlayerItemCount", "HJPlayerItemCount\HJPlayerItemCount.csproj", "{EB7DDEF2-2AC6-49C0-B0C1-4C75072F31BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{158B5AA9-21FB-45F2-98E8-DBBB98755D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{158B5AA9-21FB-45F2-98E8-DBBB98755D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{158B5AA9-21FB-45F2-98E8-DBBB98755D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E87958E-5D18-4EF0-9461-EFED0A0E921E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E87958E-5D18-4EF0-9461-EFED0A0E921E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E87958E-5D18-4EF0-9461-EFED0A0E921E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E87958E-5D18-4EF0-9461-EFED0A0E921E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB7DDEF2-2AC6-49C0-B0C1-4C75072F31BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7DDEF2-2AC6-49C0-B0C1-4C75072F31BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7DDEF2-2AC6-49C0-B0C1-4C75072F31BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7DDEF2-2AC6-49C0-B0C1-4C75072F31BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
